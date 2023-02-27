@@ -6,7 +6,31 @@ body {
     margin: 0;
 }
 
-.navBar{
-    padding: 1rem;
+nav {
+    height: 70px;
+    display: flex;
+    padding: 20px 36px;
     box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav--logo {
+    max-width: 100px;
+}
+
+.midtile{
+    padding: 1rem 2.3rem;
+}
+
+.comp{
+    padding: 0 1rem;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 110%;
+}
+
+.comppara{
+    font-family: 'Poppins';
+    padding-left: 1rem;
 }
