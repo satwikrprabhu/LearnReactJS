@@ -19,3 +19,12 @@ function App() {
 }
 
 export default App;
+
+
+// Input Fields: 1. Monthly Investment 
+//               2. Expected Return Rate (p.a.)
+//               3. Time Period
+
+// Output Fields: 1. Investment Amount
+//                2. Gains
+//                3. Total Value = Investment Amount + Gains
